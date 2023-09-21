@@ -17,7 +17,7 @@ triUmp <-read.csv(file="triUmpsal.csv",header=TRUE)
 
 A new  preventative aides drug (triUmpsal) is under test in clinical trials. Consider only the DrugUsers, does this drug seem effective?  Hint - use dplyr to obtain that subpopulation with the filter command. 
 
-```{r}
+```{r include=FALSE}
 
 drug_users <- filter(triUmp, DrugUser =="yes")
 
