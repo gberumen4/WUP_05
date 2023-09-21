@@ -45,7 +45,7 @@ In this section, we'll employ various statistical methods to investigate the eff
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
-
+In the "Results" section, we present our findings in two sub-sections: "Descriptive Results" and "Inferential Results." In the "Descriptive Results," we utilize graphical representations, including bar charts illustrating both absolute counts and percentages, to visually depict the relationship between treatment (triUmpsal) and the likelihood of infection (infected) within the Drug Users population. Concurrently, we provide numerical insights through contingency tables, row percentages, and column percentages, offering a comprehensive quantitative analysis of infection rates across different treatment groups. Subsequently, within the "Inferential Results" subsection, we interpret the outcomes of our statistical tests, encompassing the chi-squared test, the chisqtestGC function, and Fisher's exact test. While the specific results, including p-values and test statistics, are not presented here, we emphasize the importance of these tests in determining whether a statistically significant association exists between treatment and infection, thereby shedding light on the effectiveness of the triUmpsal drug among Drug Users.
 
 
 ## Descriptive Results
