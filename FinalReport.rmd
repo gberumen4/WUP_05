@@ -68,6 +68,9 @@ colPerc(table1)
 chisq.test(table1)
 ```
 
+Our analysis focused on the effectiveness of the new preventative AIDS drug, "triUmpsal," specifically among individuals categorized as "DrugUsers." This subpopulation was isolated using the filter command from the clinical trial data.
+
+
 ```{r}
 chisqtestGC(table1)
 ```
