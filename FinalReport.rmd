@@ -103,3 +103,8 @@ Fisher's Exact Test: We'll use this test when the sample size is small or when c
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In the final section, we'll discuss and draw conclusions based on the inferential results. We'll assess the effectiveness of triUmpsal among DrugUsers and consider whether a statistically significant relationship exists between infection status and treatment. The choice of different statistical tests ensures the robustness of our findings. Further research may be needed to explore additional factors influencing the drug's effectiveness in various subpopulations.
+
+
+
