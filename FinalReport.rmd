@@ -92,6 +92,14 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+We'll conduct three statistical tests to assess the effectiveness of triUmpsal among DrugUsers:
+
+Chi-Square Test: This test will evaluate whether there is a significant association between infection status and treatment (triUmpsal or control) among DrugUsers.
+
+Chi-Square Test with Goodness of Fit: Similar to the Chi-Square test, this test will assess whether the observed distribution of cases matches the expected distribution based on the null hypothesis.
+
+Fisher's Exact Test: We'll use this test when the sample size is small or when certain assumptions of the Chi-Square test are not met. It helps determine the significance of the relationship between infection status and treatment among DrugUsers.
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
