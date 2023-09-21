@@ -39,6 +39,9 @@ In this section, we'll employ various statistical methods to investigate the eff
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
+
+
+
 ## Descriptive Results
 
 ### Graphical Descriptive Results
@@ -52,6 +55,8 @@ barchartGC(~infected + treatment,data=drug_users, type="percent")
 
 ```
 
+
+We'll present bar charts that display the distribution of infected and uninfected cases within each treatment group (triUmpsal or control) among DrugUsers. These charts will provide a visual overview of the data.
 
 ### Numerical Descriptive Results
 
