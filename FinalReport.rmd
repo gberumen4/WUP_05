@@ -69,6 +69,8 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+We'll present numerical summaries, including cross-tabulation and percentage calculations, to describe the patterns of infection status and treatment among DrugUsers.
+
 
 ## Inferential Results
 
