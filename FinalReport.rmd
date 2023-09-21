@@ -25,9 +25,15 @@ drug_users
 
 ```
 
+
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
+
+
+In this section, we'll employ various statistical methods to investigate the effectiveness of triUmpsal among DrugUsers. Our approach includes both graphical and numerical methods. We'll create bar charts to visualize the relationship between infection status and treatment (triUmpsal or control) among DrugUsers. We'll also perform numerical analysis, such as cross-tabulation and percentage calculations, to summarize this relationship.
+
+
 
 # Results
 
